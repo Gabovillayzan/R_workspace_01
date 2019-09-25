@@ -1,5 +1,5 @@
 # R-workspace-Module01
- practicas R
+ practicas R [in develompment]
  Module I - Diploma DataScience Universidad Ricardo Palma
   
 Virtuales usadas:  
